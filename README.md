@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmad Sami Al Jamal · أحمد الجمال
+# Ahmad Sami Al Jamal
 
 **Real Estate Advisor — Dubai, UAE**
 
@@ -19,9 +19,6 @@ With 11+ years in Dubai real estate — including senior roles on the developer 
 - Commercial: offices and retail shops
 - Off-plan projects from Dubai's leading developers
 - Golden Visa through property investment
-
-### نبذة عني
-مستشار عقاري في دبي بخبرة تزيد عن 11 سنة في السوق العقاري، منها مناصب قيادية في جانب المطوّرين. أساعد المشترين والمستثمرين وأصحاب الأعمال على اختيار العقار المناسب وإتمام الصفقة بثقة — سكني، تجاري، على الخارطة، والإقامة الذهبية عبر الاستثمار العقاري.
 
 ---
 
